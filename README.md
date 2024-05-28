@@ -1,1 +1,1 @@
-# bugs-and-feature-requests
+Repository for tracking bugs and feature requests for combo central.
